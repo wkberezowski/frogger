@@ -35,8 +35,15 @@ body {
   padding: 10px;
   border-radius: 5px;
   background: lightcoral;
-  border: none;
+  border: none !important;
+  outline: none !important;
   font-weight: bolder;
+  cursor: pointer;
+}
+
+#start-pause-button:focus {
+  border: none !important;
+  outline: none !important;
 }
 
 .l1,
