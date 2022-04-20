@@ -21,18 +21,9 @@ body {
   background: lightblue;
 }
 
-.car-left,
-.car-right {
-  background: lightgray;
-}
-
 #start-pause-button {
   margin: 10px;
   padding: 10px;
-}
-
-.frog {
-  background-color: lightgreen;
 }
 
 .l1,
@@ -44,4 +35,17 @@ body {
 .l4,
 .l5 {
   background-color: lightskyblue;
+}
+
+.c1 {
+  background-color: black;
+}
+
+.c2,
+.c3 {
+  background-color: lightgray;
+}
+
+.frog {
+  background-color: lightgreen;
 }
