@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+.grid {
+  border: 1px solid black;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.ending-block {
+  background-color: lightcoral;
+}
+.starting-block {
+  background: lightblue;
+}
+
+.log-left,
+.log-right {
+  background: lightskyblue;
+}
+
+.car-left,
+.car-right {
+  background: lightgray;
+}
+
+#start-pause-button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.frog {
+  background-color: lightgreen;
+}
