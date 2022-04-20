@@ -21,11 +21,6 @@ body {
   background: lightblue;
 }
 
-.log-left,
-.log-right {
-  background: lightskyblue;
-}
-
 .car-left,
 .car-right {
   background: lightgray;
@@ -38,4 +33,15 @@ body {
 
 .frog {
   background-color: lightgreen;
+}
+
+.l1,
+.l2,
+.l3 {
+  background-color: burlywood;
+}
+
+.l4,
+.l5 {
+  background-color: lightskyblue;
 }
